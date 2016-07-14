@@ -9,6 +9,5 @@
 #include "vn.h"
 int main()
 {
-    int i;
     scost(20,4);
 }
