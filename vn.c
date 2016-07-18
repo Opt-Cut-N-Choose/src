@@ -1,11 +1,3 @@
-//
-//  vn.c
-//
-//
-//  Created by Sourgroup on 11/2/15.
-//
-//
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
