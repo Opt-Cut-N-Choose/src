@@ -1,11 +1,3 @@
-//
-//  vn-example.h
-//  
-//
-//  Created by Sourgroup on 7/5/16.
-//
-//
-
 #ifndef vn_example_h
 #define vn_example_h
 
